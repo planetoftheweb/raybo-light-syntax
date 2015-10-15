@@ -1,11 +1,6 @@
-# Solarized Light Syntax theme
+# Raybo Light Syntax theme
 
-Atom theme using the ever popular light [solarized] colors.
+When I used Sublime Text, I had my own version of the [solarized] theme because I wanted to improve on it's contrast a bit and add some markdown features. I wanted to duplicate that in Atom, so I'm starting with the solarized theme and tweaking from there. It's not going to be drastically different.
 
-This theme is installed by default with Atom and can be activated by going to
-the _Themes_ section in the Settings view (`cmd-,`) and selecting it from the
-_Syntax Themes_ dropdown menu.
-
-![](https://f.cloud.github.com/assets/671378/2264897/ea0d389c-9e78-11e3-8e85-e76b384de621.png)
-
+[solarized]: http://ethanschoonover.com/solarized
 [solarized]: http://ethanschoonover.com/solarized

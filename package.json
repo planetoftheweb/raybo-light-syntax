@@ -1,9 +1,9 @@
 {
   "name": "solarized-light-syntax",
   "theme": "syntax",
-  "version": "0.22.1",
-  "description": "A light syntax theme using the solarized colors",
-  "repository": "https://github.com/atom/solarized-light-syntax",
+  "version": "0.1.0",
+  "description": "Theme for recording courses by Ray Villalobos. Based on solarized-light-syntax, optimized for screen capture  and increased contrast.",
+  "repository": "https://github.com/planetoftheweb/https://github.com/planetoftheweb/raybo-light-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
