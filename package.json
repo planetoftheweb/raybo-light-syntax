@@ -1,7 +1,7 @@
 {
   "name": "raybo-light-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Theme for recording courses by Ray Villalobos. Based on solarized-light-syntax, optimized for screen capture  and increased contrast.",
   "repository": "https://github.com/planetoftheweb/https://github.com/planetoftheweb/raybo-light-syntax",
   "license": "MIT",
